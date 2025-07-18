@@ -15,18 +15,10 @@ A simple command-line based Library Management System written in Python. This ap
 
 ---
 
-## 🧑‍💻 Technologies Used
-
-- Python 3
-- Standard Python libraries (`datetime`)
-
----
-
-## ▶️ Getting Started
-
 ### ✅ Prerequisites
 
 Ensure Python 3 is installed. You can check by running:
 
 ```bash
 python --version
+```
